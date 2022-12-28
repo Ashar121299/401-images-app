@@ -1,4 +1,4 @@
-# 401-images-app
+No# 401-images-app
 
 
 # Class-31
@@ -14,22 +14,23 @@
 
 [React Components life cycle ](https://www.javatpoint.com/react-component-life-cycle )
 
-[Stack overflow 2](https://stackoverflow.com/questions/37471735/global-name-get-user-model-is-not-defined)
+[Stack overflow ](https://stackoverflow.com/questions/37471735/global-name-get-user-model-is-not-defined)
 
 
 ### Set up 
 
-1.virtual enviroment _*(python -m venv .venv)*_
+ 1. npx create-react-app 401-images-app
 
-2.build in Docker _*(docker_compose up)*_
+ 
+
+
 
 ### Run the code 
 
-_*python manage.py runserver*_
-
+ npm start
 
 
 
 
 ### PR Link
-[PR](https://github.com/Ashar121299/drf-api-permissions-postgresql/pull/1)
+[PR](https://github.com/Ashar121299/401-images-app/pull/1)
