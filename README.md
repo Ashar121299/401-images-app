@@ -14,7 +14,7 @@ No# 401-images-app
 
 [React Components life cycle ](https://www.javatpoint.com/react-component-life-cycle )
 
-[Stack overflow ](https://stackoverflow.com/questions/37471735/global-name-get-user-model-is-not-defined)
+[Stack overflow ](https://stackoverflow.com/questions/31079081/programmatically-navigate-using-react-router )
 
 
 ### Set up 
