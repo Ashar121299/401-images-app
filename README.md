@@ -12,7 +12,7 @@
 
 [gitignore](https://www.toptal.com/developers/gitignore)
 
-[Stack overflow](https://stackoverflow.com/questions/27220403/django-paypal-ipn-urls-include-not-working)
+[React Components life cycle ](https://www.javatpoint.com/react-component-life-cycle )
 
 [Stack overflow 2](https://stackoverflow.com/questions/37471735/global-name-get-user-model-is-not-defined)
 
