@@ -20,6 +20,8 @@
 ### Set up 
 
  1. npx create-react-app 401-images-app
+ 2. npm install react-bootstrap bootstrap
+ 3. npm i react-router-dom
 
  
 
